@@ -2,3 +2,21 @@
 ---
 
 @import 'jekyll-theme-hacker';
+
+a#socialLink {
+    position: relative;
+    float: right;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+header h2 {
+    font-size: 18px;
+    font-weight: 300;
+    color: #666;
+    margin: 0px;
+}
+
+a {
+    display: inline-block;
+}

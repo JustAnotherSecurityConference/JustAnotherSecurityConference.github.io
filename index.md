@@ -1,13 +1,7 @@
 ## About JASCon
+JASCon is a security conference with the goal of bringing together and forming a community of Cyber Security Enthusiasts.
 
-
-## Social Media Links
-<a href="https://www.linkedin.com/company/jasconv1">
-    <img src="assets/social_logo/linkedin.png" style="width:40px;">
-</a>
-<a href="https://www.facebook.com/JASCon-10-105193075257826">
-    <img src="assets/social_logo/facebook.png" style="width:40px;">
-</a>
-
-## Contact Information
-    Email ID: jasc.conference@gmail.com
+## JASCon v1.0
+Date: 30th October 2021\
+### Important Links
+[Add to Google Calendar]()
